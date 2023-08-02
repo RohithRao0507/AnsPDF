@@ -1,0 +1,7 @@
+
+Create a new environment and install the following: 
+1. streamlit
+2. langchain
+3. dotenv
+4. itertools
+5. PyPDF2
